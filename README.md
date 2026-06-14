@@ -33,7 +33,7 @@ This GUI wrapper is built on top of the excellent work in the [rafcabezas/arc2ze
 ## Getting Started
 
 ### 🚀 Direct Download
-You can download the pre-compiled standalone executable **[Arc2Zen.exe](https://github.com/<your-username>/<your-repo>/releases/latest/download/Arc2Zen.exe)** (or find it in the `dist/` directory) and run it directly without any installation or python environment.
+You can download the pre-compiled standalone executable **[Arc2Zen.exe](https://github.com/Pescovisck/Arc2Zen/releases)** (or find it in the `dist/` directory after building it).
 
 ### 🛠️ Running from Source
 
